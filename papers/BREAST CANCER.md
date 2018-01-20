@@ -1,0 +1,8 @@
+__Classification of breast cancer histology images using Convolutional Neural Networks__  
+
+Paper dated June 2017. Using high-resolution (2040 × 1536 pixels), uncompressed, and annotated H&E stain images from the Bioimaging 2015 breast histology classification challenge achieved ~ 77.8% for four class (normal, benign, carcinoma in situ, invasive carcinoma) and 83.3% for carcinoma/non-carcinoma are achieved. Custom CNN vgg-like network used with less conv layers and smaller fc sizes.
+
+The procedure to classify one image is as follows. First the original image is divided into twelve contiguous non-overlapping patches. The patch class probability is computed using the patch-wise trained CNN and CNN+SVM classifiers. Then, the image-wise classification is obtained using one of three different patch probability fusion methods: i) majority voting, where the image label is selected as the most common patch label, ii) maximum probability, where the patch with higher class probability decides the image label and iii) sum of probabilities, where the patch class probabilities are summed and the class with the largest value is assigned. Draws are solved by prioritizing malignant classes using the following order: i) invasive, ii) in situ, iii) benign and iv) normal. This criterion increases the sensitivity of our approach for the carcinoma classes in detriment of the non-carcinoma classes, which is of greater interest for a second-opinion system.
+
+Link: [Classification of breast cancer histology images using Convolutional Neural Networks](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177544#pone.0177544.ref023)
+
