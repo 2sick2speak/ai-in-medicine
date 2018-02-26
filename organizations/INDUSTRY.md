@@ -1,4 +1,5 @@
-====Startups====
+## Startups
+
 * [AliveCor](https://www.alivecor.com/) - Creates device and software that will turn any smartphone into a clinical-quality electrocardiogram (ECG) recorder with analytics and tracking. Khosla ventures backed startup.
 * [Athelas](http://athelas.com/) - device for blood analysis using deep learning. Athelas has created a machine that looks at a drop of blood and identifies how many white blood cells it has, said Tandon.
 * [Bay Labs](https://baylabs.io/) - cardiovascular disease diagnosis [using ultrasound](https://medium.com/@dcvc/deep-learning-for-image-analysis-dcvc-backs-bay-labs-ai-powered-ultrasound-a6a04dbafa03)
@@ -13,10 +14,10 @@
 * [Heartvista](http://www.heartvista.com/) - creating new MRI platform for the radiologists and cardiologists. Using ML to assist the user in collecting and analyszing data.
 * [Lumiata](https://lumiata.com/) - applies big data-driven medical science to patient data in order to optimize every health care interaction and eliminate paperwork. Integrating disparate sources of data in a variety of formats, including claims, labs, EHRs and more, to create a more accurate and enriched longitudinal member record.
 
-====Corporations====
+## Corporations
 * [Google Deepmind](https://deepmind.com/applied/deepmind-health/about-deepmind-health/) - apply ML and mostly deep learning to wide range of diagnostics - head and neck scans at University College London Hospitals NHS Foundation Trust, eye scans at Moorfields Eye Hospital NHS Foundation Trust, mammograms with the Cancer Research UK Imperial Centre) and de-personalised medical records with the Department of Veterans Affairs. Also introduced mobile app called "Streams". "Streams" is a secure mobile phone app that aims to address what clinicians call “failure to rescue” – when the right nurse or doctor doesn’t get to the right patient in time. Each year, many thousands of people in UK hospitals die preventably from conditions like sepsis and acute kidney injury, because the warning signs aren't picked up and acted on in time.
 
-====Investors====
+## Investors
 * [BlueCross BlueShield Venture Partners (BCBSVP)](http://bcbsvp.com/) - is a corporate venture fund program to which thirty-four BCBS entities have committed over $550 million across three Funds. The Funds invest in promising emerging companies of strategic relevance to Blue Cross and/or Blue Shield Plans and provide access to its portfolio to deploy innovation at scale. BlueCross BlueShield Venture Partners is sponsored by the Blue Cross and Blue Shield Association, an association of independent Blue Cross and Blue Shield companies.
 * [DCVC](https://www.dcvc.com/) - invested in some healthcare projects (for example, Bay Labs)
 * [Khosla Ventures](https://www.khoslaventures.com/) - huge fund with a lot of [healthcare startups](https://www.khoslaventures.com/portfolio/health)
